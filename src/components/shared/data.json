@@ -1,0 +1,121 @@
+[
+    {
+        "route": "হোম",
+        "pathname": "/"
+        
+    },
+    {
+        "route": "ওয়ারিশ ",
+        "pathname": "/",
+        "childrens": [
+            {
+                "route": "ওয়ারিশ সনদের আবেদন",
+                "pathname": "/service/inheritance-certificate"
+            },
+            {
+                "route": "ওয়ারিশ সনদের আবেদন যাচাই",
+                "pathname": "/verification/inheritance-certificate"
+            },
+            {
+                "route": "ওয়ারিশ সনদ পত্র যাচাই",
+                "pathname": "/verified/inheritance-certificate"
+            }
+        ]
+    },
+    {
+        "route": "পারিবারিক",
+        "pathname": "/",
+        "childrens": [
+            {
+                "route": "পারিবারিক সনদের আবেদন",
+                "pathname": "/service/family-certificate"
+            },
+            {
+                "route": "পারিবারিক সনদের আবেদন যাচাই",
+                "pathname": "/verification/family-certificate"
+            },
+            {
+                "route": "পারিবারিক সনদ পত্র যাচাই",
+                "pathname": "/verified/family-certificate"
+            }
+        ]
+    },
+    {
+        "route": "ট্রেড লাইসেন্স ",
+        "pathname": "/",
+        "childrens": [
+            {
+                "route": "ট্রেড লাইসেন্সের আবেদন",
+                "pathname": "/service/trade-license"
+            },
+            {
+                "route": "ট্রেড লাইসেন্সের আবেদন যাচাই",
+                "pathname": "/verification/trade-license"
+            },
+            {
+                "route": "ট্রেড লাইসেন্স নবায়ন",
+                "pathname": "/service/trade-license-renewal"
+            },
+            {
+                "route": "ট্রেড লাইসেন্স যাচাই",
+                "pathname": "/verified/trade-license"
+            }
+        ]
+    },
+    {
+        "route": "অন্যান্য",
+        "pathname": "/",
+        "childrens": [
+            {
+                "route": "চারিত্রিক সনদ",
+                "pathname": "/service/character-certificate"
+            },
+            {
+                "route": "অবিবাহিত সনদ",
+                "pathname": "/service/unmarried-certificate"
+            },
+            {
+                "route": "ভূমিহীন সনদ",
+                "pathname": "/service/landless-certificate"
+            },
+            {
+                "route": "পুনঃ বিবাহ না হওয়া সনদ",
+                "pathname": "/service/certificate-of-non-remarriage"
+            },
+            {
+                "route": "বার্ষিক আয়ের প্রত্যয়ন",
+                "pathname": "/service/affidavit-of-annual-income"
+            },
+            {
+                "route": "'একই নামের প্রত্যয়ন",
+                "pathname": "/service/same-name-authentication"
+            }
+        ]
+    },
+    {
+        "route": "কর্মকর্তাবৃন্দ",
+        "pathname": "/",
+        "childrens": [
+            {
+                "route": "জনপ্রতিনিধিগন",
+                "pathname": "/person/people-representatives"
+            },
+            {
+                "route": "কর্মকর্তা ও কর্মচারীগন",
+                "pathname": "/person/officers-employees"
+            },
+            {
+                "route": "উদ্যোক্তা",
+                "pathname": "person/entrepreneur"
+            }
+        ]
+    },
+    {
+        "route": "অভিযোগ",
+        "pathname": "/"
+    },
+    {
+        "route": "যোগাযোগ",
+        "pathname": "/contact"
+    }
+]
