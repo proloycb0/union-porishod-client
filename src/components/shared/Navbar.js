@@ -70,7 +70,7 @@ const Navbar = () => {
                         <Box sx={{ flexGrow: 0, display: { xs: 'none', lg: 'flex' } }}>
 
 
-                            <List className="flex items-center">
+                            <List className="flex items-center gap-2">
                                 {navItems?.map((item, index) => 
                                     <NavbarItem key={index} item={item} />)}
                             </List>
