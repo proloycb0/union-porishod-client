@@ -48,18 +48,18 @@ const NavbarItem = (item) => {
                     ))}
                 </Menu>
                 
-            </React.Fragment>
+            </React.Fragment >
         );
     }
     else {
-        return (
-            <div>
-                <Link href={item.item.pathname}>
-                    <Button className='text-white'>{item.item.route}</Button>
-                </Link>
-            </div>
-        );
-    }
+    return (
+        <div>
+            <Link href={item.item.pathname}>
+                <Button className='text-white'>{item.item.route}</Button>
+            </Link>
+        </div>
+    );
+}
 };
 
 export default NavbarItem;
