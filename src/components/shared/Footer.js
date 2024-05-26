@@ -1,4 +1,4 @@
-import { Box, Button, Container,Grid, Typography } from '@mui/material';
+import { Box, Button, Container, Grid, Typography } from '@mui/material';
 import Link from 'next/link';
 import React from 'react';
 
@@ -66,20 +66,22 @@ const footerLink = [
 
 const Footer = () => {
     return (
-        <Box sx={{backgroundColor: 'rgb(96,125,139)', color: 'white'}}>
+        <Box sx={{ backgroundColor: 'rgb(96,125,139)', color: 'white' }}>
             <Container className='py-5' >
                 <Grid container spacing={3}>
-                    <Grid item xs>
-                        <Typography className='text-2xl font-bold mx-2 my-2'>ই-সেবা</Typography>
-                        {
-                            footerItems.map((item) => (
-                                <Link href={item.pathname} key={item}>
-                                    <Button className='block text-white text-base'>{item.route}</Button>
-                                </Link>
-                            ))}
+                    <Grid item xs={12} sm={6} lg={4}>
+                        <Box>
+                            <Typography className='text-2xl font-bold mx-2 my-2'>ই-সেবা</Typography>
+                            {
+                                footerItems.map((item) => (
+                                    <Link href={item.pathname} key={item}>
+                                        <Button className='block text-white text-base'>{item.route}</Button>
+                                    </Link>
+                                ))}
+                        </Box>
                     </Grid>
-                    <Grid item xs>
-                    <Typography className='text-2xl font-bold mx-2 my-2'>গুরুত্বপূর্ণ লিঙ্ক</Typography>
+                    <Grid item xs={12} sm={6} lg={4}>
+                        <Typography className='text-2xl font-bold mx-2 my-2'>গুরুত্বপূর্ণ লিঙ্ক</Typography>
                         {
                             footerLink.map((item) => (
                                 <Link href={item.pathname} key={item}>
@@ -87,7 +89,7 @@ const Footer = () => {
                                 </Link>
                             ))}
                     </Grid>
-                    <Grid item xs>
+                    <Grid item xs={12} sm={6} lg={4}>
                         <Typography className='text-2xl font-bold mx-2 my-2'>ঠিকানা</Typography>
                         <Typography className='my-2 text-base'>মোবাইল নং: ০১৭৯২০১৬৭০৮</Typography>
                         <Typography className='my-2 text-base'>ফোন: ০১৭৯২০১৬৭০৮</Typography>
@@ -95,7 +97,7 @@ const Footer = () => {
                         <Typography className='my-2 text-base'>ওয়েবসাইট: https://union.xyz/</Typography>
                     </Grid>
                 </Grid>
-                <hr className='my-5 '/>
+                <hr className='my-5 ' />
                 <Typography className='text-right'>Developed by Proloy</Typography>
             </Container>
         </Box>
