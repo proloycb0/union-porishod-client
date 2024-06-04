@@ -1,0 +1,122 @@
+[
+    {
+        "route": "নাগরিকত্ব সনদ আবেদন",
+        "pathname": "/service/citizenship-certificate"
+    },
+    {
+        "route": "ট্রেড লাইসেন্স আবেদন",
+        "pathname": "/service/trade-license"
+    },
+    {
+        "route": "ট্রেড লাইসেন্স নবায়ন আবেদন",
+        "pathname": "/service/trade-license-renewal"
+    },
+    {
+        "route": "ওয়ারিশ সনদ আবেদন",
+        "pathname": "/service/inheritance-certificate"
+    },
+    {
+        "route": "পারিবারিক সনদ আবেদন",
+        "pathname": "/service/family-certificate"
+    },
+    {
+        "route": "রাস্তা খননের অনুমতি আবেদন",
+        "pathname": "/service/permission-dig-roads"
+    },
+    {
+        "route": "চারিত্রিক সনদ আবেদন",
+        "pathname": "/service/character-certificate"
+    },
+    {
+        "route": "অবিবাহিত সনদ আবেদন",
+        "pathname": "/service/unmarried-certificate"
+    },
+    {
+        "route": "ভূমিহীন সনদ আবেদন",
+        "pathname": "/service/landless-certificate"
+    },
+    {
+        "route": "পুনঃ বিবাহ না হওয়া সনদ আবেদন",
+        "pathname": "/service/certificate-of-non-remarriage"
+    },
+    {
+        "route": "বার্ষিক আয়ের প্রত্যয়ন আবেদন",
+        "pathname": "/service/affidavit-of-annual-income"
+    },
+    {
+        "route": "একই নামের প্রত্যয়ন আবেদন",
+        "pathname": "/service/same-name-authentication"
+    },
+    {
+        "route": "প্রকৃত বাক ও শ্রবন প্রতিবন্ধী আবেদন",
+        "pathname": "/service/actually-speech-and-hearing-impaired"
+    },
+    {
+        "route": "সনাতন ধর্ম অবলম্বী আবেদন",
+        "pathname": "/service/sanatan-dharma-dependent"
+    },
+    {
+        "route": "অনুমতি পত্র আবেদন",
+        "pathname": "/service/permission-letter"
+    },
+    {
+        "route": "প্রত্যয়ন পত্র আবেদন",
+        "pathname": "/service/certificate"
+    },
+    {
+        "route": "ভোটার আইডি স্থানান্তর আবেদন",
+        "pathname": "/service/voter-id-transfer"
+    },
+    {
+        "route": "নদী ভাঙনের সনদ আবেদন",
+        "pathname": "/service/river-embankment-certificate"
+    },
+    {
+        "route": "নতুন ভোটার সুপারিশ প্রত্যয়ন আবেদন",
+        "pathname": "/service/new-voter-recommendation-certification"
+    },
+    {
+        "route": "পাসপোর্ট সুপারিশ পত্র আবেদন",
+        "pathname": "/service/passport-recommendation-letter"
+    },
+    {
+        "route": "অসচ্ছল ব্যক্তির প্রত্যয়ন পত্র আবেদন",
+        "pathname": "/service/certificate-of-insolvency"
+    },
+    {
+        "route": "ক্ষমতা অর্পণের প্রত্যয়ন পত্র আবেদন",
+        "pathname": "/service/affidavit-of-delegation-of-power"
+    },
+    {
+        "route": "রিক্সার লাইসেন্স আবেদন",
+        "pathname": "/service/rickshaw-license"
+    },
+    {
+        "route": "বিল্ডিং নির্মাণের অনুমতি পত্র আবেদন",
+        "pathname": "/service/building-construction-permit"
+    },
+    {
+        "route": "পুনঃ বিবাহ হওয়ার সনদ আবেদন",
+        "pathname": "/service/remarriage-certificate"
+    },
+    {
+        "route": "মুক্তিযোদ্ধা প্রত্যয়ন পত্র আবেদন",
+        "pathname": "/service/freedom-fighter-certificate"
+    },
+    {
+        "route": "মুক্তিযোদ্ধার নাতি/নাতনীর প্রত্যয়ন পত্র আবেদন",
+        "pathname": "/service/certificate-of-grandson-granddaughter-of-freedom-fighter"
+    },
+    {
+        "route": "অভিভাবকের সম্মতি প্রত্যয়ন পত্র আবেদন",
+        "pathname": "/service/parent-consent-certificate"
+    },
+    {
+        "route": "গ্রাম আদালতে মামলা আবেদন",
+        "pathname": "/service/case-in-village-court"
+    },
+    {
+        "route": "প্রবাসে মৃত ব্যক্তির লাশ দেশে আনার প্রত্যয়ন পত্র আবেদন",
+        "pathname": "/service/certificate-of-repatriation-of-the-body-of-a-person-who-died-abroad"
+    }
+]

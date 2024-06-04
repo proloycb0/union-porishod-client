@@ -1,0 +1,122 @@
+[
+    {
+        "route": "নাগরিকত্ব সনদ যাচাই",
+        "pathname": "/verified/citizenship-certificate"
+    },
+    {
+        "route": "ট্রেড লাইসেন্স যাচাই",
+        "pathname": "/verified/trade-license"
+    },
+    {
+        "route": "ট্রেড লাইসেন্স নবায়ন যাচাই",
+        "pathname": "/verified/trade-license-renewal"
+    },
+    {
+        "route": "ওয়ারিশ সনদ যাচাই",
+        "pathname": "/verified/inheritance-certificate"
+    },
+    {
+        "route": "পারিবারিক সনদ যাচাই",
+        "pathname": "/verified/family-certificate"
+    },
+    {
+        "route": "রাস্তা খননের অনুমতি যাচাই",
+        "pathname": "/verified/permission-dig-roads"
+    },
+    {
+        "route": "চারিত্রিক সনদ যাচাই",
+        "pathname": "/verified/character-certificate"
+    },
+    {
+        "route": "অবিবাহিত সনদ যাচাই",
+        "pathname": "/verified/unmarried-certificate"
+    },
+    {
+        "route": "ভূমিহীন সনদ যাচাই",
+        "pathname": "/verified/landless-certificate"
+    },
+    {
+        "route": "পুনঃ বিবাহ না হওয়া সনদ যাচাই",
+        "pathname": "/verified/certificate-of-non-remarriage"
+    },
+    {
+        "route": "বার্ষিক আয়ের প্রত্যয়ন যাচাই",
+        "pathname": "/verified/affidavit-of-annual-income"
+    },
+    {
+        "route": "একই নামের প্রত্যয়ন যাচাই",
+        "pathname": "/verified/same-name-authentication"
+    },
+    {
+        "route": "প্রকৃত বাক ও শ্রবন প্রতিবন্ধী যাচাই",
+        "pathname": "/verified/actually-speech-and-hearing-impaired"
+    },
+    {
+        "route": "সনাতন ধর্ম অবলম্বী যাচাই",
+        "pathname": "/verified/sanatan-dharma-dependent"
+    },
+    {
+        "route": "অনুমতি পত্র যাচাই",
+        "pathname": "/verified/permission-letter"
+    },
+    {
+        "route": "প্রত্যয়ন পত্র যাচাই",
+        "pathname": "/verified/certificate"
+    },
+    {
+        "route": "ভোটার আইডি স্থানান্তর যাচাই",
+        "pathname": "/verified/voter-id-transfer"
+    },
+    {
+        "route": "নদী ভাঙনের সনদ যাচাই",
+        "pathname": "/verified/river-embankment-certificate"
+    },
+    {
+        "route": "নতুন ভোটার সুপারিশ প্রত্যয়ন যাচাই",
+        "pathname": "/verified/new-voter-recommendation-certification"
+    },
+    {
+        "route": "পাসপোর্ট সুপারিশ পত্র যাচাই",
+        "pathname": "/verified/passport-recommendation-letter"
+    },
+    {
+        "route": "অসচ্ছল ব্যক্তির প্রত্যয়ন পত্র যাচাই",
+        "pathname": "/verified/certificate-of-insolvency"
+    },
+    {
+        "route": "ক্ষমতা অর্পণের প্রত্যয়ন পত্র যাচাই",
+        "pathname": "/verified/affidavit-of-delegation-of-power"
+    },
+    {
+        "route": "রিক্সার লাইসেন্স যাচাই",
+        "pathname": "/verified/rickshaw-license"
+    },
+    {
+        "route": "বিল্ডিং নির্মাণের অনুমতি পত্র যাচাই",
+        "pathname": "/verified/building-construction-permit"
+    },
+    {
+        "route": "পুনঃ বিবাহ হওয়ার সনদ যাচাই",
+        "pathname": "/verified/remarriage-certificate"
+    },
+    {
+        "route": "মুক্তিযোদ্ধা প্রত্যয়ন পত্র যাচাই",
+        "pathname": "/verified/freedom-fighter-certificate"
+    },
+    {
+        "route": "মুক্তিযোদ্ধার নাতি/নাতনীর প্রত্যয়ন পত্র যাচাই",
+        "pathname": "/verified/certificate-of-grandson-granddaughter-of-freedom-fighter"
+    },
+    {
+        "route": "অভিভাবকের সম্মতি প্রত্যয়ন পত্র যাচাই",
+        "pathname": "/verified/parent-consent-certificate"
+    },
+    {
+        "route": "গ্রাম আদালতে মামলা যাচাই",
+        "pathname": "/verified/case-in-village-court"
+    },
+    {
+        "route": "প্রবাসে মৃত ব্যক্তির লাশ দেশে আনার প্রত্যয়ন পত্র যাচাই",
+        "pathname": "/verified/certificate-of-repatriation-of-the-body-of-a-person-who-died-abroad"
+    }
+]
